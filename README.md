@@ -7,6 +7,6 @@ auto mouse clicker (python3.9)
 ```
 
 ```
-[Google Translate]
-Press Ctrl+D to start detecting the mouse position, and press again to stop detecting. Note that you cannot hold Ctrl and press J and continue to press C, this will not start and end the connecter, you have to press Ctrl+C again after pressing Ctrl+J. If pressing Ctrl+J will trigger other functions, you don’t need to press Ctrl and then press J, you can press Ctrl and release it and then press J. The rest time refers to the rest time of the clicker program, and the actual shortest time depends on the computer CPU configuration. The maximum number of concurrent processes is recommended to be within 32, and the actual performance depends on the CPU.
+[Translate]
+Press Ctrl+D to start detecting the mouse position, and press again to stop detecting. Note that you cannot hold Ctrl and press J and continue to press C, this will not start and end the clicker, you have to press Ctrl+C again after pressing Ctrl+J. If pressing Ctrl+J will trigger other functions, you don’t need to hold Ctrl and then press J, you can press Ctrl and release it and then press J. The rest time refers to the rest time of the clicker program per click, and the actual shortest time depends on the computer CPU configuration. The maximum number of concurrent threading processes is recommended to be within 32, and the actual performance depends on the CPU.
 ```
