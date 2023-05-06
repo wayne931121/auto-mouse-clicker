@@ -14,4 +14,6 @@ Press Ctrl+D to start detecting the mouse position, and press again to stop dete
 ```
 預設介面:位置-滑鼠點擊位置(x,y)、併發進程數-開幾個子進程增加點擊次數(1)、休息時間-每次點擊後程式延遲時間(0.1)
 Default GUI: Position-Mouse Position(x,y), Max Threading(1), Rest Time-Rest Time after per clicking(0.1)
+按下Ctrl+J開始點擊，按下Ctrl+C停止點擊，按下Ctrl+K結束程式。
+Press Ctrl+J to start clicking, Ctrl+C to stop clicking, and Ctrl+K to kill the program.
 ```
